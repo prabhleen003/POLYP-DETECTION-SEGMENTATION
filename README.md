@@ -6,6 +6,8 @@ ColonDB Evalutaions https://www.kaggle.com/code/prabhleenkaur6003/colondb-segmen
 
 Clinical DB Evaluations https://www.kaggle.com/code/prabhleenkaur6003/colondb-segmentation-baseline-models
 
+Building a Novel Architecture - https://www.kaggle.com/code/prabhleenkaur6003/building-a-novel-architecture
+
 
 ## 1. Problem Description
 
