@@ -1,3 +1,10 @@
+KVASIR-SEG DATASET ANALYSIS -https://colab.research.google.com/drive/1DhHBZflkFwA2qTXaT5ed9CKCZ9Y_Adxm?usp=sharing
+
+KVASIR-SEG Evaluations https://www.kaggle.com/code/prabhleenkaur6003/kvasir-segmentation-baseline-models
+
+ColonDB Evalutaions https://www.kaggle.com/code/prabhleenkaur6003/colondb-segmentation-baseline-models
+
+Clinical DB Evaluations https://www.kaggle.com/code/prabhleenkaur6003/colondb-segmentation-baseline-models
 
 
 ## 1. Problem Description
